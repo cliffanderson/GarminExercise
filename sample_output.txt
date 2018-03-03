@@ -1,0 +1,11 @@
+findNodeByName()  node=Start  targetName=Find Me
+findNodeByName()  node=A1  targetName=Find Me
+findNodeByName()  node=D1  targetName=Find Me
+findNodeByName()  node=E1  targetName=Find Me
+findNodeByName()  node=A2  targetName=Find Me
+findNodeByName()  node=B1  targetName=Find Me
+findNodeByName()  node=Find Me  targetName=Find Me
+
+
+The node with name Find Me was found
+Process finished with exit code 0
